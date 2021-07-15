@@ -14,7 +14,7 @@ async function configureBrowser() {
 
     const browser = await puppeteer.launch({headless:false, defaultViewport: null, args: ['--start-maximized'] });
     const [page] = await browser.pages();
-    await page.setViewport({ width: 1920, height: 1080});
+    await page.setViewport({ width: 1280, height: 720});
     await page.goto(url);
 
     return page;
