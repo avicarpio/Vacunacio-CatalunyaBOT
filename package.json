@@ -1,0 +1,22 @@
+{
+  "name": "vacunaciocatalunyabot",
+  "version": "1.0.0",
+  "description": "VacunacióCatalunyaBOT",
+  "main": "vacuna.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avicarpio/Vacunaci-CatalunyaBOT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avicarpio/Vacunaci-CatalunyaBOT/issues"
+  },
+  "homepage": "https://github.com/avicarpio/Vacunaci-CatalunyaBOT#readme",
+  "dependencies": {
+    "puppeteer": "^10.1.0"
+  }
+}
