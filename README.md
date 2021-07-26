@@ -1,5 +1,9 @@
 # Vacunació Catalunya BOT
 
+## Demo
+
+![DemoBot](DemoBot.gif)
+
 ## Instalació
 
 Copia el repositori al teu ordinador
