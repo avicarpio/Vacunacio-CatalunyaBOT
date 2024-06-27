@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/avicarpio/Vacunaci-CatalunyaBOT#readme",
   "dependencies": {
-    "puppeteer": "^10.1.0"
+    "puppeteer": "^22.12.1"
   }
 }
